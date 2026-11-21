@@ -1,0 +1,6 @@
+git初始化
+少不更事的人。
+git commit -m "init"
+git分支-M主
+git remote add origin https://github.com/你的用户名/FightMod.git
+git push-u原点主线
